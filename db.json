@@ -1,6 +1,5 @@
 {
-    "id":1,
+    "id":0,
     "name": "Piggy Bank",
-    "description": "A game of capture the flag where you have to steal the enemy's flag and bring it back to your base.",
-    
+    "description": "A game of capture the flag where you have to steal the enemy's flag and bring it back to your base."
 }
